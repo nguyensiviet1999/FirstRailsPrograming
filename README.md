@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+* Một số lệnh git hữu ích
+1. Lùi về phiên bản như trên master "git checkout -f"
+2. Tạo mới branch "git checkout -b tenbranch"
+3. Xem các branch "git branch"
