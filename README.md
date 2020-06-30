@@ -26,3 +26,4 @@ Things you may want to cover:
 1. Lùi về phiên bản như trên master "git checkout -f"
 2. Tạo mới branch "git checkout -b tenbranch"
 3. Xem các branch "git branch"
+4. Chuyển đổi giữa các branch "git checkout tenbranch"
